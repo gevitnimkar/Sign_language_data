@@ -1,5 +1,5 @@
 train: ../train/images
 val: ../test/images
 
-nc: 6
+nc: 20
 names: ['Hello', 'Yes', 'No', 'Thank you', 'Please', 'ILoveYou', 'Washroom', 'Friend', 'Name', 'Good', 'House', 'Call', 'Stop', 'Help', 'What', 'Pay', 'Done', 'Baby', 'Food', 'Change']
